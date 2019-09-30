@@ -1,0 +1,33 @@
+[07-Apr-2019 18:16:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 266
+[07-Apr-2019 18:16:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 266
+[07-Apr-2019 19:53:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 266
+[09-Apr-2019 16:04:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 266
+[09-Apr-2019 16:04:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 266
+[09-Apr-2019 23:14:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 266
+[10-Apr-2019 21:10:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 282
+[12-Apr-2019 02:56:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 281
+[15-Apr-2019 19:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 281
+[15-Apr-2019 20:01:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 281
+[15-Apr-2019 20:41:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 281
+[15-Apr-2019 21:00:36 UTC] PHP Warning:  Unknown: POST Content-Length of 12986428 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Apr-2019 21:01:01 UTC] PHP Warning:  Unknown: POST Content-Length of 12986428 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Apr-2019 21:02:07 UTC] PHP Warning:  Unknown: POST Content-Length of 12986457 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Apr-2019 21:03:44 UTC] PHP Warning:  Unknown: POST Content-Length of 12986457 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Apr-2019 21:04:57 UTC] PHP Warning:  Unknown: POST Content-Length of 12986457 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Apr-2019 21:06:00 UTC] PHP Warning:  Unknown: POST Content-Length of 12986457 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Apr-2019 21:07:13 UTC] PHP Warning:  Unknown: POST Content-Length of 12986457 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Apr-2019 21:39:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php:278
+Stack trace:
+#0 /home/captain1/public_html/ccapp/OfferMarket/SelectMarketOffer.php(7): classOfferMarket->SelectMarketOffer('1', '1')
+#1 {main}
+  thrown in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 278
+[19-Apr-2019 21:52:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 289
+[19-Apr-2019 21:53:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 289
+[19-Apr-2019 21:53:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 289
+[19-Apr-2019 21:53:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 289
+[19-Apr-2019 21:54:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 289
+[19-Apr-2019 21:58:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 289
+[19-Apr-2019 22:01:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 289
+[19-Apr-2019 22:02:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 289
+[19-Apr-2019 22:05:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 289
+[19-Apr-2019 22:08:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/captain1/public_html/ccapp/OfferMarket/classOfferMarket.php on line 289

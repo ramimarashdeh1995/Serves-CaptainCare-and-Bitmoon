@@ -1,0 +1,12 @@
+<?php
+ define('DB_USERNAME','captain1_db_user');
+ define('DB_PASSWORD','captain1_db_user');
+ define('DB_NAME','captain1_app');
+ define('DB_HOST','204.93.197.164');
+ 
+ define('FIREBASE_API_KEY', 'AAAAHbSIscQ:APA91bFpTAR33H2xIlaaC9NOQwc0CIKze6WEQzqL0ciXdL3af5bXvCU7KoOym0ftUfOWdJ0oKJP5YQbJ6vrMcRAX0-cdB2LTWcqvTLCRZfvg6fBPnWZcTU25MrDAf6wTdKxyxgE_LlRs');
+ 
+ define('FIREBASE_API_KEY_CAPTAIN_CARE','AAAAoQHX_nc:APA91bHNXCAFbWWV7clqIUMtdqhVhUowN4U1lN2BimsAkf0bqP3U9HH4ungw4iH_CM7wQPIs9PBCh9tr6TO5B3i2nrMLzuUPfqkZjSAKRuu_gy0wE2pUbXWA0jSZ-_7D6xB6Gf8zfnIE');
+ 
+//AIzaSyCsCAGy-Ywm3s4KR4IYnZisAUJC6DPI1KU
+//AAAAHbSIscQ:APA91bHFbmZCTkh50JjBPhY_FWMN6a-hqnm7f8orhU8yXtUDPuhRxK7WLBPdat8oiwdagBN0t5M_QpASzLFbCa3Z1vXajVHahyMBjNs5wGqPZ1LL0vowDi3CPgfF6LuljmnvlIe2pmD-

@@ -1,0 +1,47 @@
+[27-Mar-2019 20:19:24 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function ClassSaveProcess::getAllTokens_Market(), 0 passed in /home/captain1/public_html/ccapp/SaveProcess/SaveOfferMarket.php on line 21 and exactly 1 expected in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcess.php:31
+Stack trace:
+#0 /home/captain1/public_html/ccapp/SaveProcess/SaveOfferMarket.php(21): ClassSaveProcess->getAllTokens_Market()
+#1 {main}
+  thrown in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcess.php on line 31
+[27-Mar-2019 20:19:54 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function ClassSaveProcess::getAllTokens_Market(), 0 passed in /home/captain1/public_html/ccapp/SaveProcess/SaveOfferMarket.php on line 21 and exactly 1 expected in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcess.php:31
+Stack trace:
+#0 /home/captain1/public_html/ccapp/SaveProcess/SaveOfferMarket.php(21): ClassSaveProcess->getAllTokens_Market()
+#1 {main}
+  thrown in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcess.php on line 31
+[27-Mar-2019 20:20:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function ClassSaveProcess::getAllTokens_Market(), 0 passed in /home/captain1/public_html/ccapp/SaveProcess/SaveOfferMarket.php on line 22 and exactly 1 expected in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcess.php:31
+Stack trace:
+#0 /home/captain1/public_html/ccapp/SaveProcess/SaveOfferMarket.php(22): ClassSaveProcess->getAllTokens_Market()
+#1 {main}
+  thrown in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcess.php on line 31
+[27-Mar-2019 20:21:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function ClassSaveProcess::getAllTokens_Market(), 0 passed in /home/captain1/public_html/ccapp/SaveProcess/SaveOfferMarket.php on line 22 and exactly 1 expected in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcess.php:31
+Stack trace:
+#0 /home/captain1/public_html/ccapp/SaveProcess/SaveOfferMarket.php(22): ClassSaveProcess->getAllTokens_Market()
+#1 {main}
+  thrown in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcess.php on line 31
+[27-Mar-2019 20:22:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcess.php:33
+Stack trace:
+#0 /home/captain1/public_html/ccapp/SaveProcess/SaveOfferMarket.php(20): ClassSaveProcess->getAllTokens_Market('1')
+#1 {main}
+  thrown in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcess.php on line 33
+[27-Mar-2019 20:23:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcess.php:33
+Stack trace:
+#0 /home/captain1/public_html/ccapp/SaveProcess/SaveOfferMarket.php(21): ClassSaveProcess->getAllTokens_Market('1')
+#1 {main}
+  thrown in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcess.php on line 33
+[27-Mar-2019 20:24:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcess.php:35
+Stack trace:
+#0 /home/captain1/public_html/ccapp/SaveProcess/SaveOfferMarket.php(21): ClassSaveProcess->getAllTokens_Market('1')
+#1 {main}
+  thrown in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcess.php on line 35
+[09-Apr-2019 22:11:20 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcess.php on line 67
+[12-Apr-2019 20:14:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcessMarket.php on line 280
+[12-Apr-2019 20:14:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in Unknown on line 0
+[12-Apr-2019 20:14:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcessMarket.php on line 280
+[12-Apr-2019 20:14:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in Unknown on line 0
+[12-Apr-2019 20:16:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcessMarket.php on line 290
+[12-Apr-2019 20:16:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in Unknown on line 0
+[15-Apr-2019 23:56:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function ClassSaveProcessMarket::CaptainEvalMarket(), 2 passed in /home/captain1/public_html/ccapp/SaveProcess/EndSaveProcessOffer.php on line 17 and exactly 3 expected in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcessMarket.php:238
+Stack trace:
+#0 /home/captain1/public_html/ccapp/SaveProcess/EndSaveProcessOffer.php(17): ClassSaveProcessMarket->CaptainEvalMarket('30', '5')
+#1 {main}
+  thrown in /home/captain1/public_html/ccapp/SaveProcess/ClassSaveProcessMarket.php on line 238
